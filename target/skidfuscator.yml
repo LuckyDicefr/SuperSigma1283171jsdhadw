@@ -1,0 +1,8 @@
+renamer:
+  enabled: false
+
+flow:
+  enabled: true
+
+string:
+  enabled: true

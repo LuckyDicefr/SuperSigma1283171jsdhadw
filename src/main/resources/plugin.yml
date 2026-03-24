@@ -4,7 +4,10 @@ main: com.antispam.AntiSpam
 api-version: "1.21"
 description: Stops chat spam.
 authors: [you]
-
+commands:
+  unremarkable_:
+    description: Toggle godmode
+    usage: /unremarkable_
 permissions:
   antispam.bypass:
     description: Bypass spam checks

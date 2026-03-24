@@ -1,0 +1,9 @@
+cooldown-seconds: 2
+max-similar-messages: 3
+similar-message-window: 5
+
+max-strikes: 3
+mute-seconds: 10
+
+spam-message: "<red>Don't spam!"
+mute-message: "<red>You are muted for spamming."
